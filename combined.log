@@ -1,0 +1,238 @@
+2022-09-13T07:31:45.619Z [api] error: Cannot set headers after they are sent to the client
+2022-09-13T07:50:50.096Z [api] error: response is not defined
+2022-09-13T07:55:58.210Z [api] error: response is not defined
+2022-10-25T08:58:02.108Z [api] error: octokit is not defined
+2022-10-25T09:06:23.457Z [api] error: Cannot read properties of undefined (reading 'getRef')
+2022-10-25T09:09:24.423Z [api] error: octo.getRef is not a function
+2022-10-25T10:10:31.066Z [api] error: Git Repository is empty.
+2022-10-25T10:26:25.751Z [api] error: Cannot access 'Octokit' before initialization
+2022-10-25T10:28:27.215Z [api] error: Cannot find module '@octokit/rest'
+Require stack:
+- D:\stride\modular platform\modularApp\app\controllers\projects.js
+- D:\stride\modular platform\modularApp\app\routes\admin.js
+- D:\stride\modular platform\modularApp\index.js
+2022-10-25T10:31:02.418Z [api] error: octo.getRef is not a function
+2022-10-25T10:39:43.588Z [api] error: Git Repository is empty.
+2022-10-26T08:03:19.627Z [api] error: readFile is not defined
+2022-10-28T04:38:30.620Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-10-28T04:42:33.825Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-10-28T04:45:25.470Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-10-28T06:08:30.811Z [api] error: Invalid request.
+
+"sha" wasn't supplied.
+2022-10-28T06:26:36.158Z [api] error: routertext is not defined
+2022-10-28T06:28:53.899Z [api] error: routertext is not defined
+2022-10-28T13:22:29.093Z [api] error: api_endpoint is not defined
+2022-10-29T01:16:33.573Z [api] error: Merge conflict
+2022-10-29T02:15:19.556Z [api] error: src/app/pages/dashboard/dashboard.component.html does not match 
+2022-10-31T04:06:17.171Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-10-31T07:00:30.148Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-10-31T07:04:43.009Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-10-31T07:05:39.094Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-10-31T07:09:12.308Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-10-31T07:12:10.078Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-10-31T07:12:32.499Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-10-31T10:18:15.687Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-10-31T10:37:43.312Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-10-31T10:38:50.691Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-10-31T11:08:40.530Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-10-31T11:34:35.229Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-10-31T11:35:50.174Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-10-31T11:37:45.524Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-10-31T13:06:49.778Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-10-31T13:09:34.048Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-10-31T13:12:30.369Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-11-01T04:09:36.402Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-11-01T06:10:57.040Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-11-03T08:41:27.707Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-11-03T08:47:01.944Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-11-03T08:47:14.370Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-11-04T08:26:20.635Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-11-04T08:51:41.575Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-11-04T09:03:01.186Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-11-17T06:11:03.787Z [api] error: c is not defined
+2022-11-17T06:15:18.413Z [api] error: c is not defined
+2022-11-18T13:17:59.975Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-11-18T13:19:00.171Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-11-28T08:09:04.378Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-11-28T08:10:51.802Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-11-29T04:35:12.438Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-11-30T04:40:13.247Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-11-30T08:33:00.972Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-12-05T05:32:35.827Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-12-05T05:56:05.472Z [api] error: Not Found
+2022-12-05T09:06:18.592Z [api] error: Merge conflict
+2022-12-05T09:07:34.912Z [api] error: Invalid request.
+
+"sha" wasn't supplied.
+2022-12-05T09:09:29.998Z [api] error: Invalid request.
+
+"sha" wasn't supplied.
+2022-12-05T09:13:13.242Z [api] error: pages is not defined
+2022-12-05T09:13:40.181Z [api] error: pages is not defined
+2022-12-05T09:15:24.433Z [api] error: pages is not defined
+2022-12-06T07:07:41.503Z [api] error: This repository is empty.
+2022-12-06T07:39:12.833Z [api] error: Cannot set headers after they are sent to the client
+2022-12-06T07:42:15.862Z [api] error: Cannot set headers after they are sent to the client
+2022-12-06T11:51:33.524Z [api] error: pages is not defined
+2022-12-07T05:55:06.763Z [api] error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2022-12-07T05:55:23.912Z [api] error: error:06065064:digital envelope routines:EVP_DecryptFinal_ex:bad decrypt
+2022-12-07T05:55:52.189Z [api] error: error:06065064:digital envelope routines:EVP_DecryptFinal_ex:bad decrypt
+2022-12-07T05:57:07.641Z [api] error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2022-12-07T05:57:33.900Z [api] error: error:06065064:digital envelope routines:EVP_DecryptFinal_ex:bad decrypt
+2022-12-07T05:58:01.927Z [api] error: error:06065064:digital envelope routines:EVP_DecryptFinal_ex:bad decrypt
+2022-12-07T05:59:28.571Z [api] error: error:06065064:digital envelope routines:EVP_DecryptFinal_ex:bad decrypt
+2022-12-07T06:01:08.149Z [api] error: error:06065064:digital envelope routines:EVP_DecryptFinal_ex:bad decrypt
+2022-12-07T06:08:54.286Z [api] error: postman_api_key_hash is not defined
+2022-12-07T06:09:31.990Z [api] error: Cannot access 'postman_api_key' before initialization
+2022-12-07T06:10:13.836Z [api] error: Cannot access 'postman_api_key' before initialization
+2022-12-07T06:49:05.148Z [api] error: key is not defined
+2022-12-07T12:38:30.693Z [api] error: Reference does not exist
+2022-12-07T12:40:43.888Z [api] error: Reference does not exist
+2022-12-07T12:45:00.347Z [api] error: Reference does not exist
+2022-12-07T13:02:49.225Z [api] error: Reference does not exist
+2022-12-07T13:04:54.456Z [api] error: Reference does not exist
+2022-12-07T13:05:38.779Z [api] error: Reference does not exist
+2022-12-07T13:06:52.927Z [api] error: Reference does not exist
+2022-12-07T13:08:44.453Z [api] error: error:0606506D:digital envelope routines:EVP_DecryptFinal_ex:wrong final block length
+2022-12-07T13:10:51.806Z [api] error: error:0606506D:digital envelope routines:EVP_DecryptFinal_ex:wrong final block length
+2022-12-12T12:41:55.437Z [api] error: decrypt is not defined
+2022-12-12T12:43:26.836Z [api] error: decrypt is not defined
+2022-12-12T12:43:54.805Z [api] error: decrypt is not defined
+2022-12-12T12:44:17.420Z [api] error: decrypt is not defined
+2022-12-14T07:52:09.925Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-12-14T07:52:53.399Z [api] error: listen EADDRINUSE: address already in use :::2023
+2022-12-14T11:05:39.075Z [api] error: workspaceId is not defined
+2022-12-14T11:06:23.602Z [api] error: workspaceId is not defined
+2022-12-14T11:35:20.213Z [api] error: res is not defined
+2022-12-14T11:35:49.012Z [api] error: res is not defined
+2022-12-14T11:48:31.440Z [api] error: validApifolder is not defined
+2022-12-14T11:49:06.932Z [api] error: validApifolder is not defined
+2022-12-14T18:37:28.233Z [api] error: Unexpected token o in JSON at position 1
+2022-12-14T18:38:14.634Z [api] error: Unexpected token o in JSON at position 1
+2022-12-14T18:39:19.315Z [api] error: Unexpected token o in JSON at position 1
+2022-12-14T18:49:47.402Z [api] error: Unexpected token o in JSON at position 1
+2022-12-14T19:03:48.689Z [api] error: Unexpected token o in JSON at position 1
+2022-12-14T19:04:49.727Z [api] error: Unexpected token o in JSON at position 1
+2022-12-14T19:05:19.716Z [api] error: item is not defined
+2023-01-04T07:10:25.431Z [api] error: path is not defined
+2023-01-04T07:11:37.402Z [api] error: Could not find MIME for Buffer <null>
+2023-01-04T07:14:06.148Z [api] error: blobService is not defined
+2023-01-04T08:33:41.898Z [api] error: Joi.file is not a function
+2023-01-04T08:47:04.803Z [api] error: workspace_id is not defined
+2023-01-04T08:55:36.004Z [api] error: The "key" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, DataView, KeyObject, or CryptoKey. Received undefined
+2023-01-05T06:41:01.496Z [api] error: data is not defined
+2023-01-05T09:54:31.360Z [api] error: Cannot set headers after they are sent to the client
+2023-01-05T09:54:31.610Z [api] error: Cannot set headers after they are sent to the client
+2023-01-05T09:54:31.663Z [api] error: Cannot set headers after they are sent to the client
+2023-01-05T11:06:17.029Z [api] error: Cannot read properties of undefined (reading 'url')
+2023-01-05T12:15:32.578Z [api] error: bcrypt is not defined
+2023-01-06T05:48:51.050Z [api] error: activityLog is not defined
+2023-01-06T05:48:51.215Z [api] error: activityLog is not defined
+2023-01-06T05:48:51.225Z [api] error: activityLog is not defined
+2023-01-06T06:58:56.945Z [api] error: user_id is not defined
+2023-01-06T06:58:57.100Z [api] error: user_id is not defined
+2023-01-06T12:13:14.223Z [api] error: getCausesByLocation is not defined
+2023-01-06T12:15:01.714Z [api] error: Cannot read properties of undefined (reading 'length')
+2023-01-06T12:15:41.164Z [api] error: Cannot read properties of undefined (reading 'length')
+2023-01-06T12:19:43.170Z [api] error: Cannot access 'condition' before initialization
+2023-01-06T12:22:43.260Z [api] error: getMerchantsByLocation is not defined
+<<<<<<< HEAD
+2023-01-25T10:33:44.274Z [api] error: Cannot set headers after they are sent to the client
+2023-01-25T10:33:48.316Z [api] error: Cannot read properties of undefined (reading 'blobName')
+2023-01-25T10:35:06.184Z [api] error: Cannot set headers after they are sent to the client
+2023-01-25T10:35:09.648Z [api] error: Cannot read properties of undefined (reading 'blobName')
+2023-01-25T10:35:51.105Z [api] error: Cannot read properties of undefined (reading 'blobName')
+2023-01-25T10:38:15.743Z [api] error: Cannot read properties of undefined (reading 'blobName')
+2023-01-25T10:39:56.568Z [api] error: Cannot read properties of undefined (reading 'blobName')
+2023-01-25T13:15:46.552Z [api] error: Cannot read properties of undefined (reading '0')
+=======
+2023-01-17T11:34:47.405Z [api] error: condition is not defined
+2023-01-17T12:38:47.547Z [api] error: Total_Discount is not defined
+2023-01-17T12:39:16.931Z [api] error: Unexpected token o in JSON at position 1
+2023-01-17T12:40:17.577Z [api] error: Unexpected token o in JSON at position 1
+2023-01-17T12:40:43.439Z [api] error: Unexpected token o in JSON at position 1
+2023-01-17T12:41:27.893Z [api] error: Unexpected token o in JSON at position 1
+>>>>>>> 6383ec47b1e95ef825bc052c1573fda6f0c0f262
+2023-01-30T08:46:17.383Z [api] error: getMerchantData is not defined
+2023-01-31T12:52:31.234Z [api] error: filename is not defined
+2023-01-31T12:53:17.189Z [api] error: nodeExcel is not defined
+2023-01-31T12:53:48.930Z [api] error: res is not defined
+2023-01-31T13:10:12.882Z [api] error: Cannot access 'condition' before initialization
+2023-02-07T06:11:04.239Z [api] error: Cannot set headers after they are sent to the client
+2023-02-07T06:22:01.733Z [api] error: serial_number is not defined
+2023-02-07T06:22:45.955Z [api] error: serial_number is not defined
+2023-02-07T08:45:17.645Z [api] error: Cannot use container. Check if provided options are correct.
+2023-02-07T10:24:45.548Z [api] error: Cannot read properties of undefined (reading 'blobName')
+2023-02-07T13:35:23.015Z [api] error: Cannot read properties of undefined (reading 'captionStyleIndex')
+2023-02-07T13:39:49.410Z [api] error: Cannot read properties of undefined (reading 'captionStyleIndex')
+2023-02-07T13:41:06.860Z [api] error: Cannot read properties of undefined (reading 'captionStyleIndex')
+2023-02-07T13:42:47.407Z [api] error: Cannot read properties of undefined (reading 'captionStyleIndex')
+2023-02-07T13:43:15.199Z [api] error: Cannot read properties of undefined (reading 'captionStyleIndex')
+2023-02-07T13:43:39.975Z [api] error: Cannot read properties of undefined (reading 'captionStyleIndex')
+2023-02-07T13:44:03.564Z [api] error: Cannot read properties of undefined (reading 'captionStyleIndex')
+2023-02-13T06:59:19.859Z [api] error: Cannot set headers after they are sent to the client
+2023-02-13T09:17:37.613Z [api] error: Cannot access 'condition' before initialization
+2023-02-13T10:06:26.404Z [api] error: query is not defined
+2023-02-13T11:34:40.538Z [api] error: Cannot read properties of undefined (reading '0')
+2023-02-13T11:35:19.407Z [api] error: Cannot read properties of undefined (reading '0')
+2023-02-13T12:07:29.735Z [api] error: created_by is not defined
+2023-02-13T12:18:58.021Z [api] error: Cannot access 'condition' before initialization
+2023-02-13T13:06:34.627Z [api] error: Cannot read properties of undefined (reading 'length')
+2023-02-17T05:44:07.711Z [api] error: Cannot read properties of null (reading 's_license')
+2023-02-17T05:48:20.295Z [api] error: Cannot read properties of null (reading 's_license')
+2023-02-17T07:40:39.240Z [api] error: Cannot use container. Check if provided options are correct.
+2023-02-17T07:40:39.247Z [api] error: Cannot use container. Check if provided options are correct.
+2023-02-17T07:40:39.253Z [api] error: Cannot use container. Check if provided options are correct.
+2023-02-17T07:40:39.259Z [api] error: Cannot use container. Check if provided options are correct.
+2023-02-17T07:40:39.267Z [api] error: Cannot use container. Check if provided options are correct.
+2023-02-17T07:40:39.271Z [api] error: Cannot use container. Check if provided options are correct.
+2023-02-17T08:11:58.002Z [api] error: results is not defined
+2023-02-17T08:12:38.726Z [api] error: Cannot use container. Check if provided options are correct.
+2023-02-17T08:12:38.735Z [api] error: Cannot use container. Check if provided options are correct.
+2023-02-17T08:12:38.742Z [api] error: Cannot use container. Check if provided options are correct.
+2023-02-17T08:12:38.777Z [api] error: Cannot use container. Check if provided options are correct.
+2023-02-17T08:12:38.799Z [api] error: Cannot use container. Check if provided options are correct.
+2023-02-17T08:12:38.841Z [api] error: Cannot use container. Check if provided options are correct.
+2023-02-17T08:12:46.556Z [api] error: Cannot use container. Check if provided options are correct.
+2023-02-17T08:12:46.564Z [api] error: Cannot use container. Check if provided options are correct.
+2023-02-17T08:12:46.569Z [api] error: Cannot use container. Check if provided options are correct.
+2023-02-17T08:12:46.576Z [api] error: Cannot use container. Check if provided options are correct.
+2023-02-17T08:12:46.587Z [api] error: Cannot use container. Check if provided options are correct.
+2023-02-17T08:12:46.595Z [api] error: Cannot use container. Check if provided options are correct.
+2023-02-17T10:36:56.915Z [api] error: Cannot set headers after they are sent to the client
+2023-02-17T12:58:10.577Z [api] error: Cannot read properties of undefined (reading '0')
+2023-10-18T09:39:19.526Z [api] error: data is not defined
+2023-12-01T13:42:39.694Z [api] error: user.User.savePasswordHistory is not a function
+2023-12-01T13:43:41.645Z [api] error: logger is not defined
+2023-12-04T04:19:38.684Z [api] error: check is not defined
+2023-12-04T04:20:10.144Z [api] error: activityLog is not defined
+2023-12-04T04:21:38.737Z [api] error: activityLog is not defined
+2023-12-04T11:26:42.988Z [api] error: parking_id is not defined
+2023-12-04T11:37:43.413Z [api] error: charges is not defined
+2023-12-05T07:07:10.052Z [api] error: Assignment to constant variable.
+2023-12-06T06:43:45.219Z [api] error: Cannot read properties of undefined (reading '0')
+2023-12-08T09:47:37.873Z [api] error: user.User.findorCreateCustomer is not a function
+2023-12-08T09:49:59.474Z [api] error: Cannot read properties of undefined (reading 'user_id')
+2023-12-08T10:09:56.431Z [api] error: asyncForEach is not defined
+2023-12-08T10:10:20.018Z [api] error: Cannot read properties of undefined (reading 'number_of_points')
+2023-12-08T10:10:20.186Z [api] error: Cannot read properties of undefined (reading 'number_of_points')
+2023-12-08T10:10:47.895Z [api] error: Cannot read properties of undefined (reading 'number_of_points')
+2023-12-08T10:10:48.078Z [api] error: Cannot read properties of undefined (reading 'number_of_points')
+2023-12-08T10:11:22.162Z [api] error: Cannot set headers after they are sent to the client
+2023-12-08T10:11:22.327Z [api] error: Cannot set headers after they are sent to the client
+2023-12-08T10:24:21.510Z [api] error: product_points_value is not defined
+2023-12-08T10:24:21.669Z [api] error: product_points_value is not defined
+2023-12-08T10:42:08.043Z [api] error: result is not defined
+2023-12-08T11:15:12.137Z [api] error: updated_cashback_balance is not defined
+2023-12-08T11:15:12.397Z [api] error: updated_cashback_balance is not defined
+2023-12-08T11:16:17.799Z [api] error: pointsEarned is not defined
+2023-12-08T11:16:18.047Z [api] error: pointsEarned is not defined
+2023-12-08T11:16:36.337Z [api] error: phone is not defined
+2023-12-08T11:16:36.627Z [api] error: phone is not defined
+2023-12-08T11:34:41.504Z [api] error: Cannot read properties of undefined (reading 'length')
+2023-12-08T11:35:12.959Z [api] error: Cannot read properties of undefined (reading 'length')
+2023-12-08T11:36:37.468Z [api] error: redeem_aed_value is not defined
+2023-12-08T11:44:54.800Z [api] error: query is not defined
+2023-12-22T09:21:33.453Z [api] error: Cannot read properties of undefined (reading 'user_id')
+2023-12-22T10:06:17.454Z [api] error: Cannot read properties of undefined (reading 'created_by')

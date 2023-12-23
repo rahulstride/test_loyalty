@@ -1,0 +1,80 @@
+2021-12-18T08:47:57.795Z [SMS Service] info: | Response : New OTP for Verifification :161071 : 919561071879
+2021-12-18T08:47:59.257Z [SMS Service] info: | Response : {"Response":{"message_id":"376975047","message_count":1,"price":0.0200},"ErrorMessage":"","Status":0} : 919561071879
+2021-12-18T08:54:40.788Z [SMS Service] info: | Response : New OTP for Verifification :480305 : 919561071879
+2021-12-18T08:54:42.119Z [SMS Service] info: | Response : {"Response":{"message_id":"376975064","message_count":1,"price":0.0200},"ErrorMessage":"","Status":0} : 919561071879
+2021-12-18T08:54:54.254Z [SMS Service] info: | Response : New OTP for Verifification :768478 : 919561071879
+2021-12-18T08:54:55.439Z [SMS Service] info: | Response : {"Response":{"message_id":"376975065","message_count":1,"price":0.0200},"ErrorMessage":"","Status":0} : 919561071879
+2021-12-18T09:05:29.179Z [SMS Service] info: | Response : New OTP for Verifification :560847 : 919561071879
+2021-12-18T09:05:32.197Z [SMS Service] info: | Response : {"Response":{"message_id":"376975123","message_count":1,"price":0.0200},"ErrorMessage":"","Status":0} : 919561071879
+2022-10-12T07:37:36.191Z [SMS Service] info: | Response : New OTP for Verifification :970980 : 971522071071
+2022-10-12T07:37:37.637Z [SMS Service] info: | Response : {"Response":{"message_id":"419976816","message_count":1,"price":0.0180},"ErrorMessage":"","Status":0} : 971522071071
+2022-10-12T07:40:44.966Z [SMS Service] info: | Response : New OTP for Verifification :012220 : 971522071071
+2022-10-12T07:40:46.559Z [SMS Service] info: | Response : {"Response":{"message_id":"419976836","message_count":1,"price":0.0180},"ErrorMessage":"","Status":0} : 971522071071
+2022-10-12T07:41:58.586Z [SMS Service] info: | Response : New OTP for Verifification :668963 : 971522071071
+2022-10-12T07:41:59.871Z [SMS Service] info: | Response : {"Response":{"message_id":"419976849","message_count":1,"price":0.0180},"ErrorMessage":"","Status":0} : 971522071071
+2022-10-12T07:49:37.473Z [SMS Service] info: | Response : New OTP for Verifification :558380 : 971522071071
+2022-10-12T07:50:38.345Z [SMS Service] info: | Response : New OTP for Verifification :631860 : 971522071071
+2022-10-12T08:02:02.947Z [SMS Service] info: | Response : New OTP for Verifification :744351 : 971522071071
+2022-10-12T08:04:01.867Z [SMS Service] info: | Response : New OTP for Verifification :797070 : 971522071071
+2022-10-12T08:04:11.784Z [SMS Service] info: | Response : New OTP for Verifification :970967 : 971522071071
+2022-10-13T08:14:18.967Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 971522071071
+2022-10-18T10:08:16.954Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 971522071071
+2022-10-18T10:08:51.809Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 971522071071
+2022-10-18T10:09:15.611Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 971522071071
+2022-10-18T10:10:33.946Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 971522071071
+2022-10-18T10:12:09.954Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 971522071071
+2022-10-18T11:58:08.507Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 971522071071
+2022-10-18T12:32:23.868Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 971522071071
+2022-10-19T09:25:53.527Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 971522071071
+2022-10-19T09:30:37.961Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 971522071071
+2022-10-19T09:34:29.172Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 971522071071
+2022-10-19T09:36:05.018Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 971522071071
+2022-10-19T09:38:48.572Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 971522071071
+2022-10-19T09:49:23.997Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 971522071071
+2022-10-19T09:50:00.488Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 971522071071
+2022-10-19T09:51:34.149Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 971522071071
+2022-10-19T10:04:12.751Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 971522071071
+2022-10-19T10:14:16.376Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 971522071071
+2022-10-24T07:04:08.760Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 438759843
+2022-10-24T07:04:57.922Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 438759843
+2022-10-27T12:36:42.932Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-11-04T11:36:14.013Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 438759843
+2022-11-17T04:15:37.002Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-11-17T06:38:10.848Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-11-17T06:40:27.974Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-11-17T07:35:17.819Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-11-17T07:39:12.337Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-11-17T07:40:05.400Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-11-17T07:45:00.042Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-11-17T07:51:57.043Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-11-18T13:18:16.589Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-05T05:57:37.242Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-05T05:59:15.673Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-05T06:00:11.967Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-05T06:02:15.297Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-05T06:02:42.862Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-05T06:03:04.780Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-05T06:50:04.993Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-05T09:13:01.301Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-05T09:13:31.489Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-05T09:15:08.733Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-06T11:51:07.667Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-07T12:38:24.457Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-07T12:40:38.846Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-07T13:04:49.517Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-07T13:05:32.028Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-07T13:06:44.782Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-07T13:07:37.677Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-07T13:08:16.489Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-07T13:08:36.038Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-07T13:10:39.579Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-07T13:13:23.968Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-07T13:14:02.451Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-07T13:16:06.670Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-07T13:16:36.477Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-12T11:21:56.048Z [SMS Service] info: | Response : OTP to Perform Modular Event :123456 : null
+2022-12-13T12:12:16.058Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 788987987
+2022-12-14T05:05:02.887Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 788987987
+2022-12-14T05:08:30.427Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 788987987
+2022-12-14T05:25:23.588Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 788987987
+2022-12-28T05:29:13.644Z [SMS Service] info: | Response : New OTP for Verifification :12345 : 928382322

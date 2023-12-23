@@ -1,0 +1,21 @@
+version: '2.0'
+services:
+  web:
+    image: "node:18"
+    container_name: test-loyalty-be
+    restart: unless-stopped 
+    logging:      
+      options:
+        max-size: "20m"
+    network_mode: bridge
+    entrypoint:
+      - "sh"
+      - "-c"
+      - "npm install && ./node_modules/.bin/nodemon server.js"
+    working_dir: "/usr/src/app"
+    ports:
+      - "3029:3029"
+    volumes:
+      - ".:/usr/src/app"
+      # Don't sync the node_modules directory back to the client.
+      - "/usr/src/app/node_modules"

@@ -1,0 +1,24 @@
+{
+   
+    "production": {
+        "username" : "fabadmin@fabdb1",
+        "password" : "Stride@301",
+        "host" : "fabdb1.mysql.database.azure.com",
+        "port" : "3306",
+        "database" : "fabdbv1",
+        "dialect": "mysql",
+        "sslmode" : "REQUIRED"
+    },
+    "development": {
+        "username": "root",
+        "password": "",
+        "database": "maintenance",
+        "host": "localhost",
+        "dialect": "mysql",
+        "port": "3306"        
+    } ,
+
+    "aws_secret_access_key":"JG5FETHWH7LZDVI4MBDH",
+    "aws_access_key_id":"6pgkpXLYRTq6D941VC+94G+oeScmZ6zeO7WbNZQJq/M"
+  
+}
