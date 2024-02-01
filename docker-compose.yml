@@ -1,7 +1,7 @@
 version: '2.0'
 services:
   web:
-    image: "node:18"
+    image: "node:20"
     container_name: test-loyalty-be
     restart: unless-stopped 
     logging:      
