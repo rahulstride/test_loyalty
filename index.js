@@ -11,8 +11,20 @@ require('./app/shared/passport');
 const passport = require('passport');
 const cors = require('cors');
 const cookieParser = require("cookie-parser");
-const sessions = require('express-session');
+const session = require('express-session');
 const http = require("http");
+
+// creating 24 hours from milliseconds
+const oneDay = 1000 * 60 * 60 * 24;
+
+app.use(session({
+  secret: process.env.SESSION_SECRET, // Replace with a strong, random secret
+  resave: false,
+  saveUninitialized: false,
+  cookie: { maxAge: oneDay },
+  // You can add additional configuration options here
+}));
+
 
 var myFormat = printf(function (_a) {
   var level = _a.level, message = _a.message, label = _a.label, timestamp = _a.timestamp;
