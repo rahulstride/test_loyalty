@@ -1,21 +1,24 @@
 version: '2.0'
 services:
   web:
-    image: "node:20"
+    build:
+      context: .  # Path to the directory with Dockerfile
+      dockerfile: Dockerfile 
+    image: test-loyalty-be
     container_name: test-loyalty-be
     restart: unless-stopped 
     logging:      
       options:
         max-size: "20m"
-    network_mode: bridge
-    entrypoint:
-      - "sh"
-      - "-c"
-      - "npm install && ./node_modules/.bin/nodemon server.js"
-    working_dir: "/usr/src/app"
+    networks:
+      shared_network:
+        ipv4_address: 192.168.1.123
     ports:
       - "3029:3029"
     volumes:
       - ".:/usr/src/app"
       # Don't sync the node_modules directory back to the client.
       - "/usr/src/app/node_modules"
+networks:
+  shared_network:
+    external: true  # Use an existing external network

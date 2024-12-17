@@ -1,16 +1,21 @@
-FROM node:10-alpine
+FROM node:22-alpine
 
-ENV PORT 80
-ENV MYSQL_HOST "fabdb1.mysql.database.azure.com"
-ENV MYSQL_USER "fabadmin@fabdb1"
-ENV MYSQL_DB "fabdbv1"
-ENV MYSQL_PASSWORD "Stride@301"
-ENV MYSQL_PORT "3306"
+# Install Git
+RUN apk update && \
+    apk upgrade && \
+    apk add --no-cache git
 
 WORKDIR /usr/src/app
-COPY . /usr/src/app
 
-RUN npm install -g nodemon
+# Copy package.json and package-lock.json first
+COPY package*.json ./
+
+# Install dependencies
 RUN npm install
 
-ENTRYPOINT ["nodemon", "/usr/src/app/index.js"]
+# Copy the rest of the application
+COPY . .
+
+EXPOSE 3029
+
+CMD [ "node", "index.js" ]
